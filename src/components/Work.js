@@ -53,7 +53,7 @@ const Work = () => {
             initial="hidden"
             whileInView={"show"}
             viewport={{ once: false, amount: 0.3 }}
-            className="flex-1 flex flex-col gap-y-10 justify-between"
+            className="flex-1 flex flex-col gap-y-10 justify-end"
           >
             {/* image 2 */}
             <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
