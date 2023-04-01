@@ -53,7 +53,7 @@ const Work = () => {
             initial="hidden"
             whileInView={"show"}
             viewport={{ once: false, amount: 0.3 }}
-            className="flex-1 flex flex-col gap-y-10"
+            className="flex-1 flex flex-col gap-y-10 justify-between"
           >
             {/* image 2 */}
             <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
@@ -67,7 +67,7 @@ const Work = () => {
               />
               {/* pretitle */}
               <div className="absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50">
-                <span className="text-gradient">UI/UX Design</span>
+                <span className="text-gradient">Web Development</span>
               </div>
               {/* title */}
               <div className="absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">
@@ -86,7 +86,7 @@ const Work = () => {
               />
               {/* pretitle */}
               <div className="absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50">
-                <span className="text-gradient">UI/UX Design</span>
+                <span className="text-gradient">Digital Marketing</span>
               </div>
               {/* title */}
               <div className="absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">
