@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../assets/FSN.svg";
+import Logo from "../assets/FSN_logo.png";
 
 const Header = () => {
   return (
