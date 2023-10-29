@@ -24,8 +24,8 @@ module.exports = {
       },
       backgroundImage: {
         site: "url('./assets/site-bg.jpg')",
-        about: "url('./assets/jhor-bgremoved.png')",
-        services: "url('./assets/services.png')",
+        about: "url('./assets/jhor-about.png')",
+        services: "url('./assets/nirjhor-services.png')",
       },
     },
   },
