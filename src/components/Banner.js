@@ -52,7 +52,7 @@ const Banner = () => {
               viewport={{ once: false, amount: 0.7 }}
               className="mb-8 mx-w-lg mx-auto lg:mx-0"
             >
-               I am a digital architect, constructing virtual skyscrapers of functionality and design with MERN
+               I'm a digital architect, constructing virtual skyscrapers of functionality and design with MERN
             </motion.p>
             <motion.div
               variants={fadeIn("up", 0.6)}
