@@ -29,9 +29,7 @@ const About = () => {
             <h2 className="h2 text-accent">About me</h2>
             <h3 className="h3 mb-4">I am a Frontend Web Developer</h3>
             <p className="mb-6">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus
-              reprehenderit, iste repudiandae nisi earum, voluptas placeat
-              tempora recusandae eaque dolor.
+              I'm a proficient MERN stack developer with a keen eye for detail and a passion for crafting seamless web experiences. Skilled in React, Node.js, and MongoDB, I create innovative digital solutions.
             </p>
             {/* stats */}
             <div className="flex gap-x-6 lg:gap-x-10 mb-12">
